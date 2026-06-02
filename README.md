@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Azure Enterprise Project
 
 This project documents my Azure cloud engineering lab.
